@@ -1,0 +1,375 @@
+(footprint "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0c540e11-dd09-42d7-933a-4e58bd6135d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "486d36c8-0553-443d-8f8b-a4fe22dbe7c5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "84b0c142-9347-41aa-86a0-bcdbc3c13d64")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b226c6b9-5f80-4d7f-9e18-df657460b035")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dcf3b8e3-4629-4013-b9f6-c9f0d12721b1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/AMS1117-3.3/Advanced+Monolithic+Systems/view-part/?ref=eda"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bb4250fd-5f1b-4de6-831e-9aa29a422908")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Advanced Monolithic Systems"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "261f0d88-8a58-4551-90b6-4e4d982e1032")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "SOT-223 Seeed Technology"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "50fd77a5-cac1-40dc-acc1-2f33866b3821")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "1.8 mm"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b794090-1c4f-4e04-9d8b-e1bc6fc43b60")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/AMS1117-3.3/Advanced+Monolithic+Systems/view-part/?ref=snap"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd985ad7-8782-4a64-b5d1-7a9df6c4e03e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Advanced Monolithic Systems"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23c059c3-1d59-4702-8ea3-1c3f150af5bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "IPC 7351B"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8cee1631-afa5-4769-b8f5-0d02f75b1de0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "N/A"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "508c8c11-b11e-46bc-a976-cc1e282efa45")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SNAPEDA_PACKAGE_ID" "71280"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bfe4c58c-4331-4c34-9278-0f7a7c1c31b2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "AMS1117-3.3"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "29b580b2-52cb-4733-860b-4c2758273e29")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "\nSot223/Pkg 1-Amp 3.3-Volt Low Drop Out Voltage Regulatator\n"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f4cc5fb-47f5-4547-8944-69f231792e87")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SNAPEDA_PN" "AMS1117-3.3"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "917499bc-7358-4db4-b665-16dc81ba87f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "Not in stock"
+		(at -0.060117 -0.08368 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "02ddd472-6f2f-4f8e-bf27-ea73a3e5a842")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd exclude_from_bom)
+	(fp_line
+		(start -2.010008 2.242387)
+		(end 0.642373 2.24238)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0628234f-4ddd-4548-a544-8290ecb423ac")
+	)
+	(fp_line
+		(start -2.010004 1.093567)
+		(end -2.010008 2.242387)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1a107a43-ae4b-4aea-be0b-1ff5d502c0e2")
+	)
+	(fp_line
+		(start -2.01 -2.41)
+		(end 0.642372 -2.409994)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27608c35-0dbc-4cbc-92a2-3e5679c61e8f")
+	)
+	(fp_line
+		(start -2.009995 -1.26118)
+		(end -2.01 -2.41)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d30b5bce-a851-415b-ba89-2d85bfe20a27")
+	)
+	(fp_circle
+		(center 1.663914 2.166127)
+		(end 1.693887 2.166133)
+		(stroke
+			(width 0.059995)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "09ca2b40-4510-42b6-b991-275ab43bff57")
+	)
+	(fp_circle
+		(center 1.655024 1.416319)
+		(end 1.805134 1.416318)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "954420e6-f501-47e3-bcb1-d3c8ab45c44a")
+	)
+	(fp_text user "REF**"
+		(at 0 3.83 0)
+		(layer "F.Fab")
+		(uuid "95ae1136-11ad-4a9a-a049-644c02e61a8e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 1.296125 1.416323)
+		(size 1.575006 0.672009)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8da7db08-e3f6-4ea4-b7f8-9f2499aa85bb")
+	)
+	(pad "2" smd custom
+		(at -1.416349 -0.083551)
+		(size 0.1 0.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy -0.926975 -0.949962) (xy 0.927229 -0.949962) (xy 0.971755 -0.948895) (xy 1.01618 -0.945771)
+					(xy 1.060427 -0.940564) (xy 1.104369 -0.933299) (xy 1.14793 -0.923952) (xy 1.190983 -0.912598)
+					(xy 1.233477 -0.899238) (xy 1.275286 -0.883896) (xy 1.316332 -0.866599) (xy 1.356541 -0.847422)
+					(xy 1.395784 -0.826365) (xy 1.434011 -0.80348) (xy 1.47112 -0.778842) (xy 1.507036 -0.752502) (xy 1.541656 -0.724511)
+					(xy 1.574956 -0.694895) (xy 1.606807 -0.66378) (xy 1.637186 -0.631191) (xy 1.665989 -0.597231)
+					(xy 1.693167 -0.561951) (xy 1.718669 -0.525425) (xy 1.742418 -0.487757) (xy 1.764389 -0.448997)
+					(xy 1.784531 -0.409271) (xy 1.802769 -0.329972) (xy 3.500102 -0.329972) (xy 3.500102 0.330023)
+					(xy 1.802769 0.330023) (xy 1.784531 0.409373) (xy 1.764389 0.449098) (xy 1.742418 0.487859) (xy 1.718669 0.525527)
+					(xy 1.693167 0.562052) (xy 1.665989 0.597333) (xy 1.637186 0.631293) (xy 1.606807 0.663881) (xy 1.574956 0.694996)
+					(xy 1.541656 0.724613) (xy 1.507036 0.752604) (xy 1.47112 0.778943) (xy 1.434011 0.803581) (xy 1.395784 0.826467)
+					(xy 1.356541 0.847523) (xy 1.316332 0.866701) (xy 1.275286 0.883998) (xy 1.233477 0.89934) (xy 1.190983 0.9127)
+					(xy 1.14793 0.924054) (xy 1.104369 0.933401) (xy 1.060427 0.940665) (xy 1.01618 0.945872) (xy 0.971755 0.948997)
+					(xy 0.927229 0.950064) (xy -0.926975 0.950064) (xy -0.971501 0.948997) (xy -1.015926 0.945872)
+					(xy -1.060173 0.940665) (xy -1.104115 0.933401) (xy -1.147676 0.924054) (xy -1.190729 0.9127) (xy -1.233223 0.89934)
+					(xy -1.275032 0.883998) (xy -1.316078 0.866701) (xy -1.356287 0.847523) (xy -1.39553 0.826467)
+					(xy -1.433757 0.803581) (xy -1.470866 0.778943) (xy -1.506782 0.752604) (xy -1.541402 0.724613)
+					(xy -1.574702 0.694996) (xy -1.606553 0.663881) (xy -1.636932 0.631293) (xy -1.665735 0.597333)
+					(xy -1.692913 0.562052) (xy -1.718415 0.525527) (xy -1.742164 0.487859) (xy -1.764135 0.449098)
+					(xy -1.784277 0.409373) (xy -1.802515 0.368733) (xy -1.818847 0.327305) (xy -1.833198 0.285141)
+					(xy -1.845568 0.242342) (xy -1.855906 0.199009) (xy -1.864211 0.155271) (xy -1.87046 0.111151)
+					(xy -1.874625 0.066802) (xy -1.876708 0.022327) (xy -1.876708 -0.022225) (xy -1.874625 -0.066701)
+					(xy -1.87046 -0.111049) (xy -1.864211 -0.155169) (xy -1.855906 -0.198908) (xy -1.845568 -0.24224)
+					(xy -1.833198 -0.285039) (xy -1.818847 -0.327203) (xy -1.802515 -0.368631) (xy -1.784277 -0.409271)
+					(xy -1.764135 -0.448997) (xy -1.742164 -0.487757) (xy -1.718415 -0.525425) (xy -1.692913 -0.561951)
+					(xy -1.665735 -0.597231) (xy -1.636932 -0.631191) (xy -1.606553 -0.66378) (xy -1.574702 -0.694895)
+					(xy -1.541402 -0.724511) (xy -1.506782 -0.752502) (xy -1.470866 -0.778842) (xy -1.433757 -0.80348)
+					(xy -1.39553 -0.826365) (xy -1.356287 -0.847422) (xy -1.316078 -0.866599) (xy -1.275032 -0.883896)
+					(xy -1.233223 -0.899238) (xy -1.190729 -0.912598) (xy -1.147676 -0.923952) (xy -1.104115 -0.933299)
+					(xy -1.060173 -0.940564) (xy -1.015926 -0.945771) (xy -0.971501 -0.948895) (xy -0.926975 -0.949962)
+				)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "db278526-1248-42ed-80c3-7de4e6a2cd1c")
+	)
+	(pad "3" smd rect
+		(at 1.29612 -1.583674)
+		(size 1.575006 0.672009)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fa807648-f2d0-477e-a8e8-0caf24040de8")
+	)
+	(embedded_fonts no)
+)

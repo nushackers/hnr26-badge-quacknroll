@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "hnr26-badge")(type "KiCad")(uri "${KIPRJMOD}/hnr26-badge.pretty")(options "")(descr "Hack&Roll 2026 hardware badge footprints"))
+)
